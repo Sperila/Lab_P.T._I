@@ -1,0 +1,1 @@
+int Insert(int* ,int );
